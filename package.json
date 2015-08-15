@@ -1,15 +1,13 @@
 {
   "name": "maximize-active-pane",
   "main": "./lib/maximize-active-pane",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/saschagehlich/maximize-active-pane",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
