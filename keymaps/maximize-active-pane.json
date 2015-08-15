@@ -1,0 +1,6 @@
+{
+  "atom-pane": {
+    "cmd-k m": "maximize-active-pane:maximize",
+    "cmd-k t": "maximize-active-pane:tile"
+  }
+}
